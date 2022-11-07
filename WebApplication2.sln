@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{B41D5D6D-7A9E-4A22-B16A-A9EA97253771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScopecTest", "ScopecTest\ScopecTest.csproj", "{FCC58920-4DF7-4917-B927-D27FB2F85283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41D5D6D-7A9E-4A22-B16A-A9EA97253771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41D5D6D-7A9E-4A22-B16A-A9EA97253771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41D5D6D-7A9E-4A22-B16A-A9EA97253771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41D5D6D-7A9E-4A22-B16A-A9EA97253771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC58920-4DF7-4917-B927-D27FB2F85283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC58920-4DF7-4917-B927-D27FB2F85283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC58920-4DF7-4917-B927-D27FB2F85283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC58920-4DF7-4917-B927-D27FB2F85283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5706494A-4E57-4CAF-AC47-F8C0C3B3E426}
+	EndGlobalSection
+EndGlobal
